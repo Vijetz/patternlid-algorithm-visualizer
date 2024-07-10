@@ -1,4 +1,6 @@
+## Algorithm visualizer
 
+![showcase](public/patternlid_showcase.gif)
 
 ## Available Scripts
 
