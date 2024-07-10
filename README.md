@@ -1,8 +1,9 @@
 ## Algorithm visualizer
 
-![Screensort](public/patternlid_showcase.gif)
+![Screenshot](/public/patternlid_showcase.gif)
 ![Sample Gif](public/patternlid_showcase.gif)
 <img src="public/patternlid_showcase.gif" width="200px">
+
 ## Available Scripts
 
 In the project directory, you can run:
