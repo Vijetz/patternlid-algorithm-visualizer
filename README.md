@@ -1,8 +1,7 @@
 ## Algorithm visualizer
 
-![Screenshot](/public/patternlid_showcase.gif)
-![Sample Gif](public/patternlid_showcase.gif)
-<img src="public/patternlid_showcase.gif" width="200px">
+
+![Sample Gif](public/patternlid_showcase)
 
 ## Available Scripts
 
