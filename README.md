@@ -1,7 +1,7 @@
 ## Algorithm visualizer
 
 
-![Sample Gif](public/patternlid_showcase)
+![Sample Gif](public/patternlid_showcase.gif)
 
 ## Available Scripts
 
